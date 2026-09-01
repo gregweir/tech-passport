@@ -11,10 +11,5 @@ test-results/
 tartanleaf-*.png
 tech-passport-*.png
 
-.claude/
-.superpowers/
-docs/superpowers/
-
 # Build artifacts and local deployment bundles
 *.tar.gz
-tech-passport-latest.tar.gz

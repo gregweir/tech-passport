@@ -2,7 +2,6 @@ node_modules/
 dist/
 .git/
 .github/
-.superpowers/
 .vite/
 playwright-report/
 test-results/
