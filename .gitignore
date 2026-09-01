@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.DS_Store
+.env
+.env.local
+*.log
+.vite/
+playwright-report/
+test-results/
+.playwright-mcp/
+tartanleaf-*.png
+tech-passport-*.png
+
+.claude/
+.superpowers/
+docs/superpowers/
+
+# Build artifacts and local deployment bundles
+*.tar.gz
+tech-passport-latest.tar.gz

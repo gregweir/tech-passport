@@ -1,0 +1,9 @@
+services:
+  tech-passport:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: tech-passport
+    container_name: tech-passport
+    ports:
+      - "8080:8080"
