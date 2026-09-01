@@ -40,4 +40,4 @@ This is a personal record-keeping aid, not a managed backup, security, complianc
 
 If you discover a security issue in Tech Passport, please report it privately through GitHub’s private vulnerability reporting for this repository, or email gweir@tartanleaf.com. Do not include sensitive personal data or example secrets in your report.
 
-Before public launch, the `gweir@tartanleaf.com` contact must be actively monitored. It is listed here as the required reporting channel; its day-to-day operation is a process responsibility, not something verified by the software build.
+The `gweir@tartanleaf.com` mailbox is the monitored security contact for this project. Please allow a reasonable response time; Tech Passport is a free community utility rather than a managed or continuously monitored service.

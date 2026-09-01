@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Tech Passport
+message: "If you reference Tech Passport, please cite the software using this metadata."
+type: software
+authors:
+  - family-names: Weir
+    given-names: Greg
+    affiliation: Tartanleaf.com Inc.
+abstract: "A free, open-source, local-first personal technology record and recovery planner."
+version: 0.1.0
+license: MIT
+repository-code: "https://github.com/gregweir/tech-passport"
+url: "https://techpassport.tartanleaf.com/"
+keywords:
+  - digital literacy
+  - recovery planning
+  - backup
+  - privacy
+  - local-first
+  - progressive web app

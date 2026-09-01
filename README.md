@@ -1,8 +1,19 @@
 # Tech Passport
 
+[![CI](https://github.com/gregweir/tech-passport/actions/workflows/ci.yml/badge.svg)](https://github.com/gregweir/tech-passport/actions/workflows/ci.yml)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+
+**[Open Tech Passport](https://techpassport.tartanleaf.com/)**
+
 Tech Passport is a free, open-source, local-first community utility published by Tartanleaf.com Inc. It is a personal planning and record-keeping aid for the technology your life depends on — your phone, computer, accounts, backups, and how to recover if something goes wrong.
 
 It is **not** a managed backup, security, compliance, or emergency-response service.
+
+## Before you begin
+
+Tech Passport stores its records in the browser profile where you use it. Clearing site data, using a different browser profile, or losing the device can remove access to those records. Export a JSON backup after setup and whenever you make important changes, then keep that file in a secure location you control.
+
+Do not enter passwords, PINs, MFA seeds, recovery codes, private keys, API keys, or cryptocurrency seed phrases.
 
 ## What it does
 

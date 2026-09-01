@@ -1,10 +1,14 @@
 {
   "name": "Tech Passport",
-  "short_name": "Passport",
+  "short_name": "Tech Passport",
+  "description": "A local-first personal technology record and recovery planner from Tartanleaf.",
+  "id": "/",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#f8f7f4",
   "theme_color": "#2c5530",
+  "categories": ["productivity", "utilities"],
   "icons": [
     { "src": "/icons/icon-192x192.png", "sizes": "192x192", "type": "image/png" },
     { "src": "/icons/icon-512x512.png", "sizes": "512x512", "type": "image/png" }
