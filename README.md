@@ -70,6 +70,4 @@ Published as open-source software by [Tartanleaf.com Inc.](https://tartanleaf.co
 
 This software is licensed under the MIT License. See [LICENSE](./LICENSE).
 
-The MIT License covers the software. It does not grant permission to use the Tartanleaf name, logo, or product branding to imply endorsement.
-
-The developer, publisher, and copyright holder are not interchangeable roles. See the license file and this notice for the specific rights each party grants or retains.
+The MIT License covers the software. It does not grant permission to use the Tartanleaf name, logo, or Tech Passport product branding to imply endorsement. See [BRANDING.md](./BRANDING.md).
