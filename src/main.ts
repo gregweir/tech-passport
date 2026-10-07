@@ -5,8 +5,10 @@ import { Nav } from './components/nav';
 import { UpdatePrompt } from './components/update-prompt';
 import { registerSW } from 'virtual:pwa-register';
 import { clearState } from './db';
+import { recordAppOpen } from './services/aggregateAnalytics';
 
 async function init() {
+  void recordAppOpen();
   const mainContainer = document.createElement('div');
   const shell = AppShell({ nav: Nav(), main: mainContainer });
   const app = document.getElementById('app');

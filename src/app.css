@@ -468,6 +468,41 @@ button, input, select, textarea {
   width: 100%;
 }
 
+.app-footer {
+  padding: var(--space-md);
+  border-top: 1px solid var(--color-border);
+  background: var(--color-surface);
+}
+
+.analytics-preferences {
+  max-width: 48rem;
+  margin: 0 auto;
+}
+
+.analytics-preferences h2 {
+  margin: 0 0 var(--space-sm);
+  font-size: 1rem;
+}
+
+.analytics-preferences label {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  min-height: 44px;
+  font-weight: 600;
+}
+
+.analytics-preferences input {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.analytics-preferences p {
+  margin: var(--space-sm) 0 0;
+  color: var(--color-text-secondary);
+  font-size: 0.875rem;
+}
+
 .dashboard h1 {
   margin-bottom: var(--space-xs);
 }
